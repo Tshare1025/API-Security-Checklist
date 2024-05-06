@@ -1,0 +1,8 @@
+[
+    {"k": "business_user_id","s": "100001"},
+    {"k": "business_user_id","s": "140235"},
+    {"k": "business_user_name","s": "张三"},
+    {"k": "business_user_name","s": "李四"},
+    {"k": "business_user_age","s": "22"},
+    {"k": "business_user_age","s": "18"}
+]
